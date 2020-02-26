@@ -4,12 +4,13 @@ Since Spin relies on geographical features of PostgresQL, your challenge will be
 
 ## Setup and requirements
 
-* Create a Github repository and invite `dirkdk` to it. We'll fork this repo into our org so we can review.
+* Create a Github repository. We'll fork this repo into our org so we can review.
 * Push code regularly with meaningful commit messages.
 * No authentication layer is needed
 * Tests are required, though not at 100% coverage.
 * Test enough to make you confident that the feature will work. Use your best judgement here. If you think of edge cases, include them as you see fit!
 * You must use PostGIS functions somewhere in your code via the `activerecord-postgis-adapter` (included in Gemfile). Don't rely only on Ruby gems to perform geographic calculations.
+* When done, invite `dirkdk` to your github repo and email your recruiter that you did.
 
 ## Challenge details
 
